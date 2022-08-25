@@ -14,7 +14,7 @@ public class World : MonoBehaviour
     public BiomeAttributes biome;
 
     //Atributos
-    public static readonly int worldSizeInChunks = 100; //Tamano del mundo
+    public static readonly int worldSizeInChunks = 10; //Tamano del mundo
     public static readonly int viewDistanceInChunks = 5; //Distancia de renderizado de chunks
     public int seed; //Semilla del terreno
 
